@@ -1,0 +1,24 @@
+publiccodeYmlVersion: "0.4"
+
+name: AEGIS Framework
+url: https://github.com/AAUTECO-inc/Aegis-Framework
+
+softwareType: "library"
+
+description:
+  en:
+    shortDescription: Security and governance framework for sovereign AI infrastructures
+    longDescription: >
+      AEGIS provides governance, security and auditability layers
+      for AI systems deployed in critical environments.
+
+legal:
+  license: EUPL-1.2
+
+maintenance:
+  type: community
+
+categories:
+  - cybersecurity
+  - artificial-intelligence
+  - governance
